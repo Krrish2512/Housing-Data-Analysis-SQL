@@ -1,4 +1,4 @@
-# SQL-Data-Analysis
+# Housing-Data-Analysis-SQL
 
 The SQL Data Analysis project centered on exploring and manipulating data using SQL, with a specific focus on housing information. Through the utilization of SQL, the project aimed to refine the dataset by addressing various data quality issues, including null values, redundant columns, and unstructured data.
 
